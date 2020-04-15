@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.lixiaozhen.tk/"/>
-  <updated>2020-04-14T08:45:20.816Z</updated>
+  <updated>2020-04-15T06:02:30.827Z</updated>
   <id>http://www.lixiaozhen.tk/</id>
   
   <author>
@@ -17,36 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>1</title>
-    <link href="http://www.lixiaozhen.tk/2020/04/14/1/"/>
-    <id>http://www.lixiaozhen.tk/2020/04/14/1/</id>
-    <published>2020-04-14T08:45:20.816Z</published>
-    <updated>2020-04-14T08:45:20.816Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Helloworld</title>
+    <title>你好</title>
     <link href="http://www.lixiaozhen.tk/2020/01/14/Helloworld/"/>
     <id>http://www.lixiaozhen.tk/2020/01/14/Helloworld/</id>
     <published>2020-01-14T02:29:00.000Z</published>
-    <updated>2020-04-15T03:36:05.538Z</updated>
+    <updated>2020-04-15T06:02:30.827Z</updated>
     
-    <content type="html"><![CDATA[<p>李哒哒哒哈哈哈</p><hr><p>123</p>]]></content>
+    <content type="html"><![CDATA[<p>此文章是我的第一篇文章，留以纪念</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;李哒哒哒哈哈哈&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;123&lt;/p&gt;
+        &lt;p&gt;此文章是我的第一篇文章，留以纪念&lt;/p&gt;
 
       
     
@@ -54,7 +37,7 @@
     
     
     
-      <category term="测试" scheme="http://www.lixiaozhen.tk/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="我的第一篇文章" scheme="http://www.lixiaozhen.tk/tags/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     
   </entry>
   
