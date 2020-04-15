@@ -33,16 +33,28 @@
   
   <entry>
     <title>Helloworld</title>
-    <link href="http://www.lixiaozhen.tk/2020/04/14/Helloworld/"/>
-    <id>http://www.lixiaozhen.tk/2020/04/14/Helloworld/</id>
-    <published>2020-04-14T02:29:44.000Z</published>
-    <updated>2020-04-14T02:29:44.543Z</updated>
+    <link href="http://www.lixiaozhen.tk/2020/01/14/Helloworld/"/>
+    <id>http://www.lixiaozhen.tk/2020/01/14/Helloworld/</id>
+    <published>2020-01-14T02:29:00.000Z</published>
+    <updated>2020-04-15T03:36:05.538Z</updated>
+    
+    <content type="html"><![CDATA[<p>李哒哒哒哈哈哈</p><hr><p>123</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;李哒哒哒哈哈哈&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;123&lt;/p&gt;
+
+      
     
     </summary>
     
     
+    
+      <category term="测试" scheme="http://www.lixiaozhen.tk/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
