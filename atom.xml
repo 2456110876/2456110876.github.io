@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.lixiaozhen.tk/"/>
-  <updated>2020-04-16T02:23:29.655Z</updated>
+  <updated>2020-04-16T02:27:37.975Z</updated>
   <id>http://www.lixiaozhen.tk/</id>
   
   <author>
@@ -20,10 +20,10 @@
     <title>bilive</title>
     <link href="http://www.lixiaozhen.tk/2020/04/16/bilive/"/>
     <id>http://www.lixiaozhen.tk/2020/04/16/bilive/</id>
-    <published>2020-04-16T02:23:29.715Z</published>
-    <updated>2020-04-16T02:23:29.655Z</updated>
+    <published>2020-04-16T02:27:38.035Z</published>
+    <updated>2020-04-16T02:27:37.975Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="手机端部署bilibili直播间挂机系统"><a href="#手机端部署bilibili直播间挂机系统" class="headerlink" title="手机端部署bilibili直播间挂机系统"></a>手机端部署bilibili直播间挂机系统</h1><ol><li>安装<a href="http://www.lixiaozhen.tk/2020/04/14/%5B%E6%96%B0%E6%89%8B%E8%AE%B0%E5%BD%95%5D%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%85NodeJS/">Node.js</a></li><li>安装Git<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">apt-get install git</span><br></pre></td></tr></table></figure></li><li>在命令行中定位到你想安装的目录，比如<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">mkdir test</span><br><span class="line">cd test</span><br></pre></td></tr></table></figure></li><li><code>git clone https://github.com/Vector000/bilive_client.git</code></li><li><code>cd bilive_client</code>进入程序主目录</li><li><code>npm i</code>或者<code>npm install</code>安装程序依赖包</li><li><code>npm i -g pm2</code>（自动更新所需，可以忽略）</li><li><code>npm run build</code>第一次启动需要编译</li><li><code>npm start</code>直接启动或者<code>pm2 start</code>通过pm2后台启动</li></ol><hr><p> <img src="https://i.niupic.com/images/2020/04/16/7qxG.jpg" alt="启动后"><br> 启动成功后是这个样子,然后点击<a href="http://r07908.coding-pages.com/" target="_blank" rel="noopener">这里</a>设置用户</p><hr><p> <img src="https://i.niupic.com/images/2020/04/16/7qy7.jpg" alt="打开后的页面"></p><h1 id="打开之后点击连接"><a href="#打开之后点击连接" class="headerlink" title="打开之后点击连接"></a>打开之后<strong>点击</strong><code>连接</code></h1><p> <img src="https://i.niupic.com/images/2020/04/16/7qyh.jpg" alt=""></p><h1 id="之后点击点击添加用户-输入账号密码-打开需要的开关就可以了"><a href="#之后点击点击添加用户-输入账号密码-打开需要的开关就可以了" class="headerlink" title="之后点击点击添加用户,输入账号密码,打开需要的开关就可以了"></a><strong>之后点击点击</strong><code>添加用户</code>,输入账号密码,打开需要的开关就可以了</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="手机端部署bilibili直播间挂机系统"><a href="#手机端部署bilibili直播间挂机系统" class="headerlink" title="手机端部署bilibili直播间挂机系统"></a>手机端部署bilibili直播间挂机系统</h1><ol><li>安装<a href="http://www.lixiaozhen.tk/2020/04/14/%5B%E6%96%B0%E6%89%8B%E8%AE%B0%E5%BD%95%5D%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%85NodeJS/">Node.js</a></li><li>安装Git<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">apt-get install git</span><br></pre></td></tr></table></figure></li><li>在命令行中定位到你想安装的目录，比如<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">mkdir test</span><br><span class="line">cd test</span><br></pre></td></tr></table></figure></li><li><pre><code>git clone https://github.com/Vector000/bilive_client.git</code></pre></li><li><code>cd bilive_client</code>进入程序主目录</li><li><code>npm i</code>或者<code>npm install</code>安装程序依赖包</li><li><code>npm i -g pm2</code>（自动更新所需，可以忽略）</li><li><code>npm run build</code>第一次启动需要编译</li><li><code>npm start</code>直接启动或者<code>pm2 start</code>通过pm2后台启动</li></ol><hr><p><img src="https://i.niupic.com/images/2020/04/16/7qxG.jpg" alt="启动后"><br> 启动成功后是这个样子,然后点击<a href="http://r07908.coding-pages.com/" target="_blank" rel="noopener">这里</a>设置用户</p><hr><p> <img src="https://i.niupic.com/images/2020/04/16/7qy7.jpg" alt="打开后的页面"></p><h1 id="打开之后点击连接"><a href="#打开之后点击连接" class="headerlink" title="打开之后点击连接"></a>打开之后<strong>点击</strong><code>连接</code></h1><p> <img src="https://i.niupic.com/images/2020/04/16/7qyh.jpg" alt=""></p><h1 id="之后点击点击添加用户-输入账号密码-打开需要的开关就可以了"><a href="#之后点击点击添加用户-输入账号密码-打开需要的开关就可以了" class="headerlink" title="之后点击点击添加用户,输入账号密码,打开需要的开关就可以了"></a><strong>之后点击点击</strong><code>添加用户</code>,输入账号密码,打开需要的开关就可以了</h1>]]></content>
     
     <summary type="html">
     
