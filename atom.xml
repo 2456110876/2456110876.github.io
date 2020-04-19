@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.lixiaozhen.tk/"/>
-  <updated>2020-04-18T13:15:44.457Z</updated>
+  <updated>2020-04-19T04:42:08.492Z</updated>
   <id>http://www.lixiaozhen.tk/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>随便水一水</title>
+    <link href="http://www.lixiaozhen.tk/2020/04/19/lazy/"/>
+    <id>http://www.lixiaozhen.tk/2020/04/19/lazy/</id>
+    <published>2020-04-19T04:36:26.000Z</published>
+    <updated>2020-04-19T04:42:08.492Z</updated>
+    
+    <content type="html"><![CDATA[ <a id="more"></a><h1 id="正如你们所见，今天不知道要写什么，就随便写写"><a href="#正如你们所见，今天不知道要写什么，就随便写写" class="headerlink" title="正如你们所见，今天不知道要写什么，就随便写写"></a>正如你们所见，今天不知道要写什么，就随便写写</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+         &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h1 id=&quot;正如你们所见，今天不知道要写什么，就随便写写&quot;&gt;&lt;a href=&quot;#正如你们所见，今天不知道要写什么，就随便写写&quot; class=&quot;headerlink&quot; title=&quot;正如你们所见，今天不知道要写什么，就随便写写&quot;&gt;&lt;/a&gt;正
+      
+    
+    </summary>
+    
+    
+    
+      <category term="随便写写" scheme="http://www.lixiaozhen.tk/tags/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/"/>
+    
+  </entry>
   
   <entry>
     <title>手机搭建静态博客</title>
